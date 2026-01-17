@@ -7,5 +7,5 @@ This dashboard is aimed at helping aspiring data professionals who are looking t
 
 LINK: https://public.tableau.com/app/profile/elvis.wanjohi/viz/JobsDashboard_17569985159410/SummaryDashboard
 
-<img src="assets/Detail Dashboard.png" alt="Screenshot of Detail Page of the Project" width="1080" height="500">
+<img src="assets/Detail Dashboard.png" alt="Screenshot of Detail Page of the Project" width="1080" height="1000">
 
